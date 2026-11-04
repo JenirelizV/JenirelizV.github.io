@@ -4,6 +4,35 @@ body {
 #purple { 
     background-color: #9a4eae;
 }
-#padding {
+#gold {
+    color: #ffd662;
+}
+div {
     padding: 24px;
+}
+#blue {
+    background-color: #2b547e;
+}
+#black {
+    background-color: black;
+    padding: 10px;
+    color: azure;
+}
+#red {
+    background-color: crimson;
+    color: #09ff00;
+}
+#hotpink {
+    background-color: #ff007f;
+    color: #ffb1bd;
+}
+#electric {
+    background-color: #08e8de;
+    color: rgb(255, 142, 29);
+}
+#brown {
+    color: #835100;
+}
+#crazy {
+    color: mediumspringgreen;
 }
