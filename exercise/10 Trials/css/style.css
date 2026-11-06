@@ -1,0 +1,39 @@
+#green {
+    color: green;
+}
+#pink {
+    color: #F711F7;
+}
+#red {
+    color: red;
+}
+#orange {
+    color: goldenrod;
+}
+#blue {
+    color: blue;
+}
+#skyblue {
+    background-color: skyblue;
+}
+#yellow {
+    background-color: rgb(255, 255, 0);
+}
+#under {
+    text-decoration: underline;
+}
+#fake {
+    font-size: 36px;
+}
+#eyebrow {
+    font-size: 12px;
+}
+#head {
+    font-size: 48px;
+}
+#sub {
+    font-size: 24px;
+}
+#center {
+    text-align-last: center;
+}
