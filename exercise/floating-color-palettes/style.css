@@ -1,0 +1,91 @@
+#summer { 
+    box-shadow: 6px 6px 12px #989898;
+    text-align: center;
+    margin: 24px; 
+    padding: 24px; 
+}
+#heading {
+    text-align: center;
+    margin: 24px; 
+    padding: 24px; 
+}
+#lavendar {
+    background-color: #FCEFEF;
+    margin: 0px; 
+    padding: 24px;
+}
+#pearl {
+    background-color: #7FD8BE;
+    margin: 0px; 
+    padding: 24px;
+}
+#aquamarine {
+    background-color: #A1FCDF;
+    margin: 0px; 
+    padding: 24px;
+}
+#cream {
+    background-color: #FCD29F;
+    margin: 0px; 
+    padding: 24px;
+}
+#sandy {
+    background-color: #FCAB64;
+    margin: 0px; 
+    padding: 24px;
+}
+#petal {
+    background-color: #DB5ABA;
+    margin: 0px; 
+    padding: 24px;
+    color: white;
+}
+#plum {
+    background-color: #C455A8;
+    margin: 0px; 
+    padding: 24px;
+    color: white;
+}
+#old {
+    background-color: #CF8BA3;
+    margin: 0px; 
+    padding: 24px;
+}
+#blossom {
+    background-color: #D7A6B3;
+    margin: 0px; 
+    padding: 24px;
+}
+#silk {
+    background-color: #E5CDC8;
+    margin: 0px; 
+    padding: 24px;
+}
+#charcoal {
+    background-color: #292E1E;
+    margin: 0px; 
+    padding: 24px;
+    color: white;
+}
+#royal {
+    background-color: #7F0799;
+    margin: 0px; 
+    padding: 24px;
+    color: white;
+}
+#amethyst {
+    background-color: #9649CB;
+    margin: 0px; 
+    padding: 24px;
+    color: white;
+}
+#winkle {
+    background-color: #AFBBF2;
+    margin: 0px; 
+    padding: 24px;
+}
+#winter {
+    background-color: #D3FFF3;
+    margin: 0px; 
+    padding: 24px;
+}
