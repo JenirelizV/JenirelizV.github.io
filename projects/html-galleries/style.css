@@ -1,0 +1,42 @@
+#center {
+    text-align: center;
+}
+#under {
+    text-decoration: underline;
+}
+#box {
+    box-shadow: 6px 6px 12px #989898;
+    margin: 50px; 
+    padding: 20px; 
+    background-color: lightseagreen;
+    border-radius: 15px;
+    color: #ffebd1;
+}
+style {
+    color: honeydew;
+}
+#size {
+    font-size: 20px;
+}
+.basic-grid-gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 24px;
+    grid-template-rows: 1fr 1fr;
+    grid-row-gap: 25px;
+    grid-column-gap: 25px;
+}
+#cat {
+    color: darkorchid;
+}
+.tall-grid-gallery {
+     display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 20px;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+}
+#alice {
+    color: #cc2424;
+}
