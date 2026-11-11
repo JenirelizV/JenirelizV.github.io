@@ -1,0 +1,42 @@
+#music {
+    margin: 20px;
+    display: inline-block;
+    border-radius: 15px;
+    background-color: indigo;
+}
+.featured-album {
+    width: 200px;
+    border-radius: 20px;
+    vertical-align: top;
+}
+#images {
+    width: 100%;
+    border-radius: 20px;
+}
+.featured {
+    color: antiquewhite;
+    padding: 15px;
+}
+.details {
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: top;
+}
+.margin {
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+.albums {
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 0px 0px 15px 15px;
+}
+#row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-column-gap: 10px;
+}
+#size {
+    font-size: 35px;
+}
