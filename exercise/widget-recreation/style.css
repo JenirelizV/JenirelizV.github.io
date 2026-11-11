@@ -1,14 +1,14 @@
 #music {
     margin: 20px;
-    display: inline-block;
-    border-radius: 15px;
-    background-color: indigo;
-}
+        display: inline-block;
+         border-radius: 15px;
+         background-color: indigo;
+        }
 .featured-album {
     width: 200px;
-    border-radius: 20px;
-    vertical-align: top;
-}
+        border-radius: 20px;
+        vertical-align: top;
+        }
 #images {
     width: 100%;
     border-radius: 20px;
