@@ -1,0 +1,52 @@
+/*
+    NOTE TO STUDENTS: 
+    This is the file you should be writing your CSS in 
+    for the Bulletin Board assignment.
+
+    Good luck, and have fun!
+*/
+.post-it {
+    display: inline;
+    width: 200px;
+    height: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 24px;
+    padding: 24px;
+    vertical-align: top;
+}
+.yellow {
+    background-color: yellow;
+}
+.purple {
+    background-color: darkorchid;
+    top: 50px;
+    position: relative;
+}
+.orange {
+    background-color: orange;
+    top: -30px;
+    position: relative;
+}
+.red {
+    background-color: rgb(241, 74, 74);
+    top: 130px;
+    position: relative;
+    left: 200px;
+}
+.cyan {
+    background-color: rgb(61, 201, 142);
+    top: -120px;
+    position: relative;
+}
+.green {
+    background-color: rgb(166, 255, 0);
+}
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;  
+    position: relative;  
+}
+.image {
+    right: 50px;
+}
