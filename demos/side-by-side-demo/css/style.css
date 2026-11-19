@@ -1,9 +1,10 @@
 * {
-    body-sizing: border-box;
+    box-sizing: border-box;
 }
 body {
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 36px;
 }
 
 .src {
@@ -24,4 +25,32 @@ img {
     border: 2px solid, #cf9dfc;
     padding: 36px;
     text-align: center;
+    margin: 36px 0px;
+}
+
+.card h2 {
+    font-size: 36px;
+    margin: 0px;
+}
+.card p {
+    margin: 24px 0px 0px;
+}
+
+#s2 {
+    display: flex;
+    gap: 36px;
+}
+
+#s2 {
+    align-items: center;
+}
+#s2 .image-container, #s2 .container {
+    flex: 1;
+}
+#s2 h1 {
+    font-size: 60px;
+    margin-bottom: 12px;
+}
+#s2 p {
+    font-size: 36px;
 }
