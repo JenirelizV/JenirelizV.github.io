@@ -1,0 +1,48 @@
+
+#start-color {
+    background-color: #BA0018;
+    color: whitesmoke;
+    padding: 30px;
+}
+body {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.button {
+    border-radius: 15px;
+    background-color: white;
+    padding: 10px;
+    max-width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mint {
+    background-color: mediumspringgreen;
+    color: rgb(49, 28, 9);
+    padding: 30px;
+}
+body {
+    margin: 0px auto; 
+    max-width: min-content;
+    display: flex;
+    text-align: center;
+}
+div.mint a:link {
+    color: rgb(16, 161, 101);
+    text-decoration: none;
+}
+div#start-color a:link {
+    color: #BA0018;
+    text-decoration: none;
+}
+.halloween {
+    background-color: rgb(69, 113, 209);
+    color: rgb(255, 167, 95);
+    padding: 30px;
+}
+div.halloween a:link {
+    color: rgb(18, 37, 146);
+    text-decoration: none;
+}
