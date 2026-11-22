@@ -46,3 +46,6 @@ div.halloween a:link {
     color: rgb(18, 37, 146);
     text-decoration: none;
 }
+a:visited {
+  color: inherit !important;
+}
