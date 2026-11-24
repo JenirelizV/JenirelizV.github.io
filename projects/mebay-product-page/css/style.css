@@ -1,0 +1,90 @@
+#layout {
+    display: flex;
+    grid-column: auto;
+    column-count: 3fr;
+}
+#thumbnail {
+    display: grid;
+    grid-row: 5fr;
+    grid-column: 1fr;
+    padding: 10px;
+    grid-row-gap: 10px;
+}
+b { 
+   font-weight: 800;
+}
+#feature {
+    padding: 20px;
+}
+#product {
+    max-width: min-content;
+    display: flex;
+    background-color: aquamarine;
+}
+#top {
+    text-align: center;
+    text-shadow: 10px;
+}
+.purple {
+    color: blueviolet;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: dodgerblue;
+}
+.yellow {
+    color: gold;
+}
+.green {
+    color: limegreen;
+}
+body {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+}
+.gray {
+    color: rgb(95, 89, 89);
+}
+#space {
+    margin-bottom: 0%;
+    font-size: 40px;
+}
+.select {
+    border: 100px;
+    border-color: rgb(181, 146, 214);
+}
+.account {
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+    grid-row: 2fr;
+    grid-gap: 10px;
+}
+:any-link {
+    color: black;
+    text-decoration: underline;
+}
+.button {
+    border-radius: 30px;
+    background-color: rgb(84, 31, 100);
+    color: aliceblue;
+    padding: 10px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.wish {
+    border-radius: 30px;
+    border-style: solid;
+    border-color: rgb(84, 31, 100);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
